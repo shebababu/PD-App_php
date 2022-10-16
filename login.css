@@ -1,0 +1,22 @@
+.container{
+    width: 400px;
+    height: 225px;
+}
+body {
+    background-color: rgb(236, 241, 241);
+}
+.wrapper {
+    margin: auto;
+    margin-top: 10vw;
+    text-align: center;
+    height: 15vw;
+    width: 30vw;
+    border: 3px solid black;
+}
+h1 {
+    font-size: 3vw;
+}
+.form {
+    font-size: 2vw;
+    margin-top: 8vw;
+}
